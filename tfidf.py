@@ -100,15 +100,15 @@ def taggedSubjectivity(subjfilename, tweetfilename,strength=False):
 
 
 def main():
-    if len(sys.argv) != 3:
-        print "propper call 'python tfidf <savedestination> <strength s or w>'"
+    if len(sys.argv) != 4:
+        print "propper call 'python tfidf <savedestination> <subject> <strength s or w>'"
         exit()
-    if sys.argv[2] == "s":
+    if sys.argv[3] == "s":
         strength = True
     else:
         strength = False
     fp = open(sys.argv[1],"w")
-    tweets = negatedSubjectivity("subjclues.tff-neg","tangled2",strength)
+    tweets = negatedSubjectivity("subjclues.tff-neg",sys.argv[2],strength)
     #tweets = simpleSubjectivity("subjclues.tff","tangled2")
     #tweets = taggedSubjectivity("subjclues.tff","tangled2")
     for tweet in tweets:

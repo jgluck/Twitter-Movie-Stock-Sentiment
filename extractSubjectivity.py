@@ -111,7 +111,7 @@ def createNegated(subjfname):
         elif newpol == "positive":
             newpol = "negative"
         newtext = "not-"+parts[2].split("=")[1]
-        df.write(parts[0]+" "+parts[1] + " word1="+newtext+ " " + parts[3] + parts[4] + " priorpolarity="+newpol+"\n")
+        df.write(parts[0]+" "+parts[1] + " word1="+newtext+ " " + parts[3] +" "+ parts[4] + " priorpolarity="+newpol+"\n")
     df.close()
     fp.close()
 
