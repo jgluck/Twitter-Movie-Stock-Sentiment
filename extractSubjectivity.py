@@ -120,18 +120,6 @@ def main():
     name = "subjclues.tff"
     createNegated(name)
     results = weibe(name,True)
-    for item in results[2]:
-        print item
-
-    a = subjword()
-    a.setText("hello")
-    a.setPolarity(-1)
-    b = subjword()
-    b.setText("hello")
-    b.setPolarity(1)
-    print results[2][678] == results[2][679]
-    print results[2][679] 
-    print results[2][680]
 
 
 if __name__=="__main__":

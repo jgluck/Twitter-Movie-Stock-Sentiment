@@ -56,6 +56,8 @@ def negatedSubjectivity(subjfilename,tweetfilename,strength=False):
             tweet.changeScore(word.getPolarity()*freq(word.getText(),tweet.getnText()))
     return tweets
 
+
+##not working right now
 def taggedSubjectivity(subjfilename, tweetfilename,strength=False):
     
     def tagConverter(taglist):
@@ -97,9 +99,12 @@ def taggedSubjectivity(subjfilename, tweetfilename,strength=False):
 
 
 def main():
+    fp = open("savebox.tweets","w")
+    tweets = negatedSubjectivity("subjclues.tff-neg","tangled2")
     #tweets = simpleSubjectivity("subjclues.tff","tangled2")
-    tweets = taggedSubjectivity("subjclues.tff","tangled2")
+    #tweets = taggedSubjectivity("subjclues.tff","tangled2")
     for tweet in tweets:
-        if tweet.getScore()!= 0:
-            print tweet.getText(),tweet.getScore()
+        tweet.save(fp)
+    fp.close()
+
 main()
