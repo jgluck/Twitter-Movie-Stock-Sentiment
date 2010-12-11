@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import nltk
+import sys
 from extractSubjectivity import *
 from tweetReader import *
 from math import *
@@ -99,8 +100,15 @@ def taggedSubjectivity(subjfilename, tweetfilename,strength=False):
 
 
 def main():
-    fp = open("savebox.tweets","w")
-    tweets = negatedSubjectivity("subjclues.tff-neg","tangled2")
+    if len(sys.argv) != 3:
+        print "propper call 'python tfidf <savedestination> <strength s or w>'"
+        exit()
+    if sys.argv[2] == "s":
+        strength = True
+    else:
+        strength = False
+    fp = open(sys.argv[1],"w")
+    tweets = negatedSubjectivity("subjclues.tff-neg","tangled2",strength)
     #tweets = simpleSubjectivity("subjclues.tff","tangled2")
     #tweets = taggedSubjectivity("subjclues.tff","tangled2")
     for tweet in tweets:
