@@ -8,3 +8,5 @@ We noticed several problems. At one point we realized we were overpenalizing twe
 We attempted at first to make use of the search api; however, Twitter is not conducive to searching the past, but it is an excellent source for polling the present. 
 
 We initially attempted several simultaneous streaming requests; however, this quickly triggered Twitter's aggresive user defense. Instead we colapsed all of the queries down to one large query to be sorted by topic later
+
+Our twitter data comes from all of Twitter, so it is not sorted by language or country. This might affect correlation with the movie data, as the box-office numbers are from domestic grosses.
