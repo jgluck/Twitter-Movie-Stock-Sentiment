@@ -44,4 +44,3 @@ def readTweets(fname):
 
 if __name__=="__main__":
     main()
-sitive 

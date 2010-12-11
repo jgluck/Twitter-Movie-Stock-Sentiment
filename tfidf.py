@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import nltk
 from extractSubjectivity import *
 from tweetReader import *
 from math import *
@@ -29,26 +30,28 @@ def idf(word,documentList):
 def tfidf(word,document,documentList):
     return (tf(word,document) * idf(word,documentList))
 
-def simpleSubjectivity(subjfilename,tweetfilename,strength=false):
+def simpleSubjectivity(subjfilename,tweetfilename,strength=False):
     sentiments = weibe(subjfilename,strength)
     tweets = readTweets(tweetfilename)
-    for tweet In tweets:
-        for word In sentiments[2]:
-            tweet.changescore(word.getPolarity()*freq(word.getText(),tweet.getText()))
+    for tweet in tweets:
+        for word in sentiments[2]:
+            tweet.changeScore(word.getPolarity()*freq(word.getText(),tweet.getText()))
     return tweets
 
-def negatedSubjectivity(subjfilename,tweetfilename,strength=false):
+def negatedSubjectivity(subjfilename,tweetfilename,strength=False):
     sentiments = weibe(subjfilename,strength)
     tweets = readTweets(tweetfilename)
-    for tweet In tweets:
-        for word In sentiments[2]:
-            tweet.changescore(word.getPolarity()*freq(word.getText(),tweet.getnText()))
+    for tweet in tweets:
+        for word in sentiments[2]:
+            tweet.changeScore(word.getPolarity()*freq(word.getText(),tweet.getnText()))
     return tweets
+
+def taggedSubjectivity(subjfilename, tweetfilename,strength=False):
+    sentiments = weibe(subjfilename,strength)
 
 def main():
     tweets = simpleSubjectivity("subjclues.tff","tangled2")
-
+    for tweet in tweets:
+        print tweet.getText(), tweet.getScore()
 
 main()
-[2]:
-            tweet.changes
