@@ -1,0 +1,10 @@
+
+We added a not-subjective word for each subjective word in wiebe's data in order to handle negation. are there other forms of negation?
+
+We added some emoticons to Weibe's subjective data. 
+
+We noticed several problems. At one point we realized we were overpenalizing tweets for Tangled because Tangled was a negative sentiment word.
+
+We attempted at first to make use of the search api; however, Twitter is not conducive to searching the past, but it is an excellent source for polling the present. 
+
+We initially attempted several simultaneous streaming requests; however, this quickly triggered Twitter's aggresive user defense. Instead we colapsed all of the queries down to one large query to be sorted by topic later

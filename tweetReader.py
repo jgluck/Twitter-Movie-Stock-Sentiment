@@ -6,13 +6,15 @@ class tweet(object):
     
     def __init__(self,twit):
         self.text = twit["text"].encode("UTF-8")
+        self.textList = self.text.split()
+        self.PoS = []
         self.contributors = twit["contributors"]
         self.dic = twit
         self.date = twit["created_at"]
         self.positive = 0
         self.negative = 0
         self.total = 0
-        self.nText = twit["text"].encode("UTF-8")
+        self.nText = self.text
         self.nText = self.nText.replace("not ","not-")
 
     def changeScore(self,n):
