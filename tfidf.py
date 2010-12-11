@@ -6,7 +6,6 @@ from tweetReader import *
 from math import *
 from operator import itemgetter
 
-#testcomment
 def freq(word,document):
     word = word.lower()
     document = document.lower()
