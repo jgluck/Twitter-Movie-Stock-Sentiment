@@ -65,7 +65,21 @@ def fastSimpleSubjectivity(subjfilename,tweetfilename,save,strength=False):
             sfp.close()
             fp.close()
             break
-
+def fastNegatedSubjectivity(subjfilename,tweetfilename,save,strength=False):
+    sentiments = weibe(subjfilename,strength)
+    sfp = open(save,"w")
+    decoder = simplejson.JSONDecoder()
+    fp = open(tweetfilename,"r")
+    while True:
+        tweet = readTweet(fp,decoder)
+        if tweet != None:
+            for word in sentiments[2]:
+                tweet.changeScore(word.getPolarity()*freq(word.getText(),tweet.getnText()))
+            tweet.save(sfp)
+        else:
+            sfp.close()
+            fp.close()
+            break
 def negatedSubjectivity(subjfilename,tweetfilename,strength=False):
     sentiments = weibe(subjfilename,strength)
     tweets = readTweets(tweetfilename)
@@ -124,7 +138,11 @@ def main():
         strength = True
     else:
         strength = False
-    fastSimpleSubjectivity("subjclues.tff",sys.argv[2],sys.argv[1],strength)
+    
+    
+    #fastSimpleSubjectivity("subjclues.tff",sys.argv[2],sys.argv[1],strength)
+    fastNegatedSubjectivity("subjclues.tff-neg",sys.argv[2],sys.argv[1],strength)
+    
     #fp = open(sys.argv[1],"w")
     #tweets = negatedSubjectivity("subjclues.tff-neg",sys.argv[2],strength)
     #tweets = simpleSubjectivity("subjclues.tff","tangled2")
