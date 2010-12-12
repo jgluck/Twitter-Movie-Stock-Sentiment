@@ -1,0 +1,460 @@
+Woo
+amazing
+thks
+damn good
+ruled
+rules
+WTG
+cute 
+comeback
+impressed
+prop
+props
+congratulation
+gtd
+proud
+thanks
+thanks!
+pumped
+integrate
+like
+loves
+yay
+amazing 
+luck
+saver
+cake
+good
+hawt
+hawtness
+positive
+hero
+yummy
+awesome
+congrats
+recommend
+vigor
+neat
+yay
+ftw
+want
+best
+impressive
+positive
+thx
+thanks
+endorse
+superior
+woot
+w00t
+super
+wonderful
+rally
+incredible
+best
+strong
+rally
+quickly
+cool
+exceptional
+proud
+funny
+recommend
+great
+cool
+wowsers
+plus
+liked
+inspired
+LOL
+:)
+;)
+:-)
+;-)
+:D
+;]
+:]
+:p
+;p
+agreeable
+amused
+brave
+calm
+charming
+cheerful
+comfortable
+cooperative
+courageous
+delightful
+determined
+eager
+elated
+enchanting
+encouraging
+energetic
+enthusiastic
+excited
+exuberant
+excellent
+like
+fine
+fair
+faithful
+fantastic
+fine
+friendly
+fun 
+funny
+gentle
+glorious
+good
+happy
+healthy
+helpful
+high
+agile
+responsive
+hilarious
+jolly
+joyous
+kind
+lively
+lovely
+lucky
+nice
+nicely
+obedient
+perfect
+pleasant
+proud
+relieved
+silly
+smiling
+splendid
+successful
+thankful
+thoughtful
+victorious
+vivacious
+witty
+wonderful
+zealous
+zany
+rocks
+comeback
+surprised
+pleasantly
+surprised
+love
+glad
+yum
+interesting
+type=strongsubj len=1 word1=Woo pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=amazing pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=thks pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=damn pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=ruled pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=rules pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=WTG pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=cute pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=comeback pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=impressed pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=prop pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=props pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=congratulation pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=gtd pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=proud pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=thanks pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=thanks! pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=pumped pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=integrate pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=like pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=loves pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=yay pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=amazing pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=luck pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=saver pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=cake pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=good pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=hawt pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=hawtness pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=positive pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=hero pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=yummy pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=awesome pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=congrats pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=recommend pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=vigor pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=neat pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=yay pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=ftw pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=want pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=best pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=impressive pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=positive pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=thx pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=thanks pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=endorse pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=superior pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=woot pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=w00t pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=super pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=wonderful pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=rally pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=incredible pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=best pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=strong pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=rally pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=quickly pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=cool pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=exceptional pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=proud pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=funny pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=recommend pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=great pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=cool pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=wowsers pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=plus pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=liked pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=inspired pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=LOL pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=:) pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=;) pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=:-) pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=;-) pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=:D pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=;] pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=:] pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=:p pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=;p pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=agreeable pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=amused pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=brave pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=calm pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=charming pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=cheerful pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=comfortable pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=cooperative pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=courageous pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=delightful pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=determined pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=eager pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=elated pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=enchanting pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=encouraging pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=energetic pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=enthusiastic pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=excited pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=exuberant pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=excellent pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=like pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=fine pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=fair pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=faithful pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=fantastic pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=fine pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=friendly pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=fun pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=funny pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=gentle pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=glorious pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=good pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=happy pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=healthy pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=helpful pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=high pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=agile pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=responsive pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=hilarious pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=jolly pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=joyous pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=kind pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=lively pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=lovely pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=lucky pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=nice pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=nicely pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=obedient pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=perfect pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=pleasant pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=proud pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=relieved pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=silly pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=smiling pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=splendid pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=successful pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=thankful pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=thoughtful pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=victorious pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=vivacious pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=witty pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=wonderful pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=zealous pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=zany pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=rocks pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=comeback pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=surprised pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=pleasantly pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=surprised pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=love pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=glad pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=yum pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=interesting pos=rattr stemmed1=y priorpolarity=positive
+type=strongsubj len=1 word1=FTL pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=irritating pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=notgood pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=suck pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=lying pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=duplicity pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=angered pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=dumbfounding pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=dumbifying pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=notasgood pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=stomach pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=pw pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=pwns pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=pwnd pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=pwning pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=horrifying pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=wrong pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=flailing pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=failing pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=lose pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=fallen pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=self-deprecating pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=duh pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=hated pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=must pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=heavy pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=buggy pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=unusable pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=nothing pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=despise pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=pos pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=hindrance pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=sucks pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=problems pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=fuming pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=annoying pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=frothing pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=poorly pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=headache pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=sad pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=lame pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=peeves pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=peeve pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=bullshit pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=fail pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=terrible pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=negative pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=anooying pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=issue pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=dead pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=trouble pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=brainwashed pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=smear pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=commie pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=communist pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=anti-women pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=WTF pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=anxiety pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=STING pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=yell pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=Damn pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=aren't pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=anti pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=hate pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=dissapointing pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=recommend pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=worst pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=expensive pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=crap pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=socialist pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=won't pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=wont pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=:( pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=:-( pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=Thanks pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=smartass pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=frickin pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=snooty pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=jerk pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=reactionist pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=hypocrisy pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=ugly pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=noise pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=crappy pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=horrible pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=angry pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=annoyed pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=anxious pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=arrogant pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=ashamed pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=awful pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=bad pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=bewildered pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=blues pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=bored pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=clumsy pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=combative pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=condemned pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=confused pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=crazy pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=flipped-out pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=creepy pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=cruel pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=dangerous pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=defeated pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=defiant pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=depressed pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=disgusted pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=disturbed pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=dizzy pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=dull pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=embarrassed pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=envious pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=evil pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=fierce pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=foolish pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=frantic pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=frightened pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=grieving pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=grumpy pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=helpless pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=homeless pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=hungry pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=hurt pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=ill pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=itchy pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=jealous pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=jittery pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=lazy pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=lonely pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=mysterious pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=nasty pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=rape pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=naughty pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=nervous pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=nutty pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=obnoxious pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=outrageous pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=panicky pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=fucking pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=repulsive pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=scary pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=selfish pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=sore pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=tense pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=terrible pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=testy pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=thoughtless pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=tired pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=troubled pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=upset pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=uptight pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=weary pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=wicked pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=worried pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=painful pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=pain pos=rattr stemmed1=y priorpolarity=negative
+type=strongsubj len=1 word1=gross pos=rattr stemmed1=y priorpolarity=negative
