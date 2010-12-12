@@ -2,6 +2,7 @@
 
 import nltk
 import sys
+import threading
 from extractSubjectivity import *
 from tweetReader import *
 from math import *
@@ -65,6 +66,29 @@ def fastSimpleSubjectivity(subjfilename,tweetfilename,save,strength=False):
             sfp.close()
             fp.close()
             break
+class threadedSimpleSubjectivity(threading.Thread):
+    
+    def __init__(self, subjfilename,tweetfilename,savefp,strength=False):
+        self.subjw = weibe(subjfilename,strength)
+        self.tweetfp = open(tweetfilename,"r")
+        self.fp = savefp
+        threading.Thread.__init__(self)
+    
+    def run(self):
+        decoder = simplejson.JSONDecoder()
+        while True:
+            tweet = readTweet(self.tweetfp,decoder)
+            if tweet != None:
+                for word in self.subjw[2]:
+                    tweet.changeScore(word.getPolarity()*freq(word.getText(),tweet.getText()))
+                tweet.save(self.fp)
+            else:
+                self.fp.close()
+                self.tweetfp.close()
+                break
+        
+    
+    
 def fastNegatedSubjectivity(subjfilename,tweetfilename,save,strength=False):
     sentiments = weibe(subjfilename,strength)
     sfp = open(save,"w")
