@@ -74,7 +74,10 @@ def readTweets(fname):
     return lines
 
 def readTweet(fp,decoder):
-    return tweet(decoder.decode(fp.readline()))
+    try:
+        return tweet(decoder.decode(fp.readline()))
+    except:
+        return None
 
 
 if __name__=="__main__":

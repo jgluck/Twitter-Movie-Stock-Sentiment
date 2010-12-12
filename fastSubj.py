@@ -57,9 +57,10 @@ def fastSimpleSubjectivity(subjfilename,tweetfilename,save,strength=False):
     while True:
         #try:
         tweet = readTweet(fp,decoder)
-        for word in sentiments[2]:
-            tweet.changeScore(word.getPolarity()*freq(word.getText(),tweet.getText()))
-        tweet.save(sfp)
+        if tweet != None:
+            for word in sentiments[2]:
+                tweet.changeScore(word.getPolarity()*freq(word.getText(),tweet.getText()))
+            tweet.save(sfp)
         #except:
         #    sfp.close()
         #    fp.close()
