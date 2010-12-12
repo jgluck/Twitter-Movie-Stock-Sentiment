@@ -61,10 +61,10 @@ def fastSimpleSubjectivity(subjfilename,tweetfilename,save,strength=False):
             for word in sentiments[2]:
                 tweet.changeScore(word.getPolarity()*freq(word.getText(),tweet.getText()))
             tweet.save(sfp)
-        #except:
-        #    sfp.close()
-        #    fp.close()
-        #    break
+        else:
+            sfp.close()
+            fp.close()
+            break
 
 def negatedSubjectivity(subjfilename,tweetfilename,strength=False):
     sentiments = weibe(subjfilename,strength)

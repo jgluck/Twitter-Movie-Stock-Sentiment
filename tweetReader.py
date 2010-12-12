@@ -76,7 +76,7 @@ def readTweets(fname):
 def readTweet(fp,decoder):
     try:
         return tweet(decoder.decode(fp.readline()))
-    except:
+    except ValueError:
         return None
 
 
