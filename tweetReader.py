@@ -73,6 +73,9 @@ def readTweets(fname):
         lines.append(tweet(decoder.decode(line)))
     return lines
 
+def readTweet(fp,decoder):
+    return tweet(decoder.decode(fp.readline()))
+
 
 if __name__=="__main__":
     main()
