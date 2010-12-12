@@ -117,7 +117,7 @@ def createNegated(subjfname):
 
 
 def main():
-    name = "subjclues.tff"
+    name = "subjrattr.tff"
     createNegated(name)
     results = weibe(name,True)
 

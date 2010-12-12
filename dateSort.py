@@ -101,7 +101,11 @@ def calculateScore(datedic):
     return datedic
 
 def main():
-    #x = dayCorpusCount(sys.argv[1])
+    y = dayCorpusCount(sys.argv[1])
+    for key in y.keys():
+        print key + " " + str(y[key])
+
+    print "____________________________"
     #x = daySubjectivityCount(sys.argv[1])
     x = dayBasicCount(sys.argv[1])
     x = calculateScore(x)
