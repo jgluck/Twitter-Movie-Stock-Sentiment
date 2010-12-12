@@ -56,6 +56,12 @@ class tweet(object):
     def getScore(self):
         return self.total
 
+    def getPositive(self):
+        return self.positive
+
+    def getNegative(self):
+        return self.negative 
+
     def getText(self):
         return self.text
 
@@ -72,6 +78,15 @@ def readTweets(fname):
     for line in fp:
         lines.append(tweet(decoder.decode(line)))
     return lines
+
+def loadTweet(fp):
+    try:
+        line = fp.readline()
+        twt = tweet()
+        twt.load(line)
+        return twt
+    except ValueError:
+        return None
 
 def readTweet(fp,decoder):
     try:
