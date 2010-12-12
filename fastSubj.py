@@ -87,7 +87,7 @@ class threadedSimpleSubjectivity(threading.Thread):
                 self.tweetfp.close()
                 break
         
-    
+
     
 def fastNegatedSubjectivity(subjfilename,tweetfilename,save,strength=False):
     sentiments = weibe(subjfilename,strength)
@@ -153,6 +153,18 @@ def taggedSubjectivity(subjfilename, tweetfilename,strength=False):
     return tweets
     nltk.word_tokenize
 
+class RunTest(threading.Thread):
+    def __init__(self,tweets,saveloc,strength):
+        self.posclues ="subjclues.tff"
+        self.negclues = "subjclues.tff-neg"
+        self.tweets = tweets
+        self.saveloc = saveloc
+        self.strength = strength
+        threading.Thread.__init__(self)
+
+    def run(self):
+        fastSimpleSubjectivity(self.posclues,self.tweets,self.saveloc,self.strength)
+
 
 def main():
     if len(sys.argv) != 4:
@@ -165,6 +177,8 @@ def main():
     
     
     #fastSimpleSubjectivity("subjclues.tff",sys.argv[2],sys.argv[1],strength)
+    a=RunTest(sys.argv[2],sys.argv[1]+"simple",strength)
+    a.start()
     fastNegatedSubjectivity("subjclues.tff-neg",sys.argv[2],sys.argv[1],strength)
     
     #fp = open(sys.argv[1],"w")

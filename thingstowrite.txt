@@ -1,3 +1,20 @@
+things to do:
+        movies - graph daily gross vs paily positiveness for movies
+        movies - opening gross, overall gross
+        movies -gross vs total tweets
+
+        stocks - graph hourly daily stocks vs subjectivity
+
+
+
+Methods
+        *how we got tweets
+        *where we acquired sentiment words
+        *data storage + retrieval
+        *How the various algorithems go
+               simple
+               negated
+
 
 We added a not-subjective word for each subjective word in wiebe's data in order to handle negation. are there other forms of negation?
 
