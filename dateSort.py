@@ -105,12 +105,17 @@ def main():
     for key in y.keys():
         print key + " " + str(y[key])
 
-    print "____________________________"
-    #x = daySubjectivityCount(sys.argv[1])
+    print "____________________________done with count"
+    z = daySubjectivityCount(sys.argv[1])
+    z = calculateScore(z)
+    for key in z.keys():
+        print key + " " + str(z[key])
+    print "____________________________done with numbered"
     x = dayBasicCount(sys.argv[1])
     x = calculateScore(x)
     for key in x.keys():
         print key + " " + str(x[key])
+    print "_______________________done with basic"
 if __name__=="__main__":
     main()
 
