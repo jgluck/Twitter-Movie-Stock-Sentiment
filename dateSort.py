@@ -1,6 +1,7 @@
 from tweetReader import*
 from dateConverter import *
 import simplejson
+import sys
 
 def dayCorpusCount(tweetfilename):
     dates = {}
@@ -24,7 +25,7 @@ def dayCorpusCount(tweetfilename):
             return dates
 
 def main():
-    x = dayCorpusCount("harrypotter")
+    x = dayCorpusCount(sys.argv[1])
     for key in x.keys():
         print key + "---" + str(x[key])
 if __name__=="__main__":
