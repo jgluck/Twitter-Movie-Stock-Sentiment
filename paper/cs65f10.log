@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2010.12.12)  13 DEC 2010 01:04
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2010.12.12)  13 DEC 2010 01:21
 entering extended mode
 **cs65f10.tex
 
@@ -186,15 +186,39 @@ Underfull \hbox (badness 1005) in paragraph at lines 96--97
 \OT1/ptm/m/n/10.95 These tweets were stored in their JSON ob-ject
  []
 
-[2] [3]
-Underfull \hbox (badness 1824) in paragraph at lines 176--177
-\OT1/ptm/m/n/10.95 After hav-ing gath-ered data over the pe-riod of
- []
-
-<img/PureTweets.png, id=20, 423.83344pt x 255.20343pt>
+[2] [3] <img/PureTweets.png, id=20, 423.83344pt x 255.20343pt>
 File: img/PureTweets.png Graphic file (type png)
 
 <use img/PureTweets.png>
+Underfull \hbox (badness 1824) in paragraph at lines 176--179
+\OT1/ptm/m/n/10.95 After hav-ing gath-ered data over the pe-riod of
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 176--179
+\OT1/ptm/m/n/10.95 Novem-ber 16th to De-cem-ber 11th, we halted
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 176--179
+\OT1/ptm/m/n/10.95 NUM-BER HERE tweets re-lated to stocks and
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 176--179
+\OT1/ptm/m/n/10.95 prod-ucts. The movie tweets were over-whelm-
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 176--179
+\OT1/ptm/m/n/10.95 has to do with the fact that the first half of
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 176--179
+\OT1/ptm/m/n/10.95 the fi-nal movie in the 24 bil-lion dol-lar se-ries.
+ []
+
 Missing character: There is no ï in font ptmr7t!
 Missing character: There is no ¿ in font ptmr7t!
 Missing character: There is no ½ in font ptmr7t!
@@ -255,8 +279,8 @@ Missing character: There is no ½ in font ptmr7t!
 Missing character: There is no ï in font ptmr7t!
 Missing character: There is no ¿ in font ptmr7t!
 Missing character: There is no ½ in font ptmr7t!
- [4 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentime
-nt/paper/img/PureTweets.png (PNG copy)>]
+[4 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentimen
+t/paper/img/PureTweets.png (PNG copy)>]
 Missing character: There is no ï in font ptmr7t!
 Missing character: There is no ¿ in font ptmr7t!
 Missing character: There is no ½ in font ptmr7t!
@@ -348,7 +372,7 @@ rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program File
 s (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on cs65f10.pdf (6 pages, 127516 bytes).
+Output written on cs65f10.pdf (6 pages, 129396 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

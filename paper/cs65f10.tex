@@ -173,14 +173,13 @@ This second method gave rise to an issue where many positive tweets contain both
 f = count of tweets with positive words/count of tweets with negative words
 
 \section{Results}
-After having gathered data over the period of November 16th to December 11th, we halted our streaming request. We amassed a total of 2,762,704 tweets related to movies, and INSERT NUMBER HERE tweets related to stocks and products. The movie tweets were overwhelmingly related to Harry Potter in some way.
-
+After having gathered data over the period of November 16th to December 11th, we halted our streaming request. We amassed a total of $2,762,704$ tweets related to movies, and INSERT NUMBER HERE tweets related to stocks and products. The movie tweets were overwhelmingly related to Harry Potter in some way. This has to do with the fact that the first half of the final movie in the 24 billion dollar intellectual property giant. Its tweets eclipsed those of the other movies, and rightly so.
+%(http://business.timesonline.co.uk/tol/business/movers_and_shakers/article3663197.ece)
 \includegraphics[scale=.5]{img/PureTweets.png} 
 
 \subsection{Movie Analysis}
 \subsection{Stocks Analysis}
 
-\section{Analysis}
 
 \section{Future Work}
 In addition to the analyses we have already performed, there are many other methods that could be used in the future to further improve the accuracy and usefulness of this data.  For example, one such improvement that would be useful to implement in the future would be the implementation of a part of speech tagger for the tweet data.  Because the subjective word from �The Subjectivity Lexicon� list also includes a part of speech tag for each word, this method would allow us to categorize only the tweets whose subjective words match the part of speech of �The Subjectivity Lexicon�s� word.  For example, while the word �cool� is not in �The Subjectivity Lexicon,� but if it were, it would presumably only be included as a positive adjective (as in �that�s really cool�).  However, in the methods we used for this analysis, the noun form of cool (as in �it�s cool outside�) would also be counted as positive, even though this word is really more likely to be neutral, or possibly even negative.  In �The Subjectivity Lexicon,� this is also shown by the word �bullies�, which can be either a noun or verb.  According to the list, both words are negative, so this doesn�t affect the sentiment analysis much, but not all cases of homonyms work out so well.
