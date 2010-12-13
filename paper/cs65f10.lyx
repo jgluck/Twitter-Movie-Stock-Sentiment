@@ -1,0 +1,305 @@
+#LyX file created by tex2lyx 1.6.5
+\lyxformat 264
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\usepackage{cs65f10}\usepackage{times}\usepackage{latexsym}\setlength{\titlebox}{6.5cm}% Expanding the titlebox
+\title{TheAdventuresofJonandNickinNLP-Land}
+
+\author{NickFelt\\SwarthmoreCollege\\500CollegeAve\\SwarthmorePA19081\\{\ttnfelt1@cs.swarthmore.edu}\AndJonathanGluck\\SwarthmoreCollege\\500CollegeAve\\SwarthmorePA19081\\{\ttjgluck1@cs.swarthmore.edu}}
+
+\date{}
+
+
+\end_preamble
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize 11
+\spacing single
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Abstract
+
+TO BE COMPLETED
+\newline
+ (probably close to last)
+\newline
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A summary of what's to come.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Section
+
+Introduction
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Quotes eld
+\end_inset
+
+What is your goal and what are you about to tell us?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+
+Methods
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Quotes eld
+\end_inset
+
+What did you do: what algorithms did you implement, what datasets did you create, what corpora did you use? We implemented several of the algorithms discussed in 
+\shape italic
+Harris
+\shape default
+, and 
+\shape italic
+Hafer and Weiss
+\shape default
+. These algorithms were trained on the Brown Corpus and on various subsets thereof. The accuracy of these algorithms were tested against the gold standard provided by the Morpho Challenge 2010, a competition designed with a better understanding of unsupervised mophological splitting in mind. Additionally, we created a second gold standard from the text of Washington Irving's "The Legend of Sleepy Hollow." This second gold standard was initially generated with our Binary Splitter algorithm (explained below) but was hand edited for correctness. The algorithms we implemented, and some of the methodology with which they were implemented is explained below.
+\begin_inset Quotes erd
+\end_inset
+
+
+\newline
+
+\end_layout
+
+\begin_layout Subsection
+
+Simple Cutoff
+\end_layout
+
+\begin_layout Standard
+
+This method, originally introduced in Harris 1955, acts on the successor predecessor counts of the query string 
+\end_layout
+
+\begin_layout Subsection
+
+Cutoff with Peak
+\end_layout
+
+\begin_layout Subsection
+
+Entropy Cutoff
+\end_layout
+
+\begin_layout Subsection
+
+Entropy with Peak
+\end_layout
+
+\begin_layout Subsection
+
+Complete Word
+\end_layout
+
+\begin_layout Subsection
+
+Binary Splitter
+\end_layout
+
+\begin_layout Standard
+
+\InsetSpace ~
+
+\begin_inset LatexCommand cite
+after ""
+key "harris1955-phoneme"
+
+\end_inset
+
+
+\newline
+ \InsetSpace ~
+
+\begin_inset LatexCommand cite
+after ""
+key "harris1967-morpheme"
+
+\end_inset
+
+
+\newline
+ \InsetSpace ~
+
+\begin_inset LatexCommand cite
+after ""
+key "hafer1974-word"
+
+\end_inset
+
+
+\newline
+ \InsetSpace ~
+
+\begin_inset LatexCommand cite
+after ""
+key "dejean1998-morphemes"
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% A tilde prevents the citations from breaking across lines
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+
+Results
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Quotes eld
+\end_inset
+
+What were your results? Tables are always nice!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+
+Analysis
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Quotes eld
+\end_inset
+
+What do your results mean? How should readers interpret your results?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+
+Future Work
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Quotes eld
+\end_inset
+
+During the course of this project, several ideas an techniques were concieved; which, if pursued, could be beneficial to the field of morphological splitting.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+
+Conclusions
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Quotes eld
+\end_inset
+
+What do you want the reader of your paper to walk away remembering?)
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+bibliographystyle{cs65f10}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset LatexCommand bibtex
+bibfiles "cs65f10"
+options "cs65f10"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

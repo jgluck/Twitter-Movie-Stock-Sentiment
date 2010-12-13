@@ -1,0 +1,153 @@
+%%
+%% This is file `smiley.sty',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% smiley.dtx  (with options: `package')
+%% 
+%% THIS IS A AUTOMATICALLY GENERATED FILE CONTAINING EXPERIMENTAL CODE.
+%% 
+%% Do not distribute this file without also distributing the source files specified above.
+%% 
+%% Do not distribute a modified version of this file under the same name.
+%% 
+%% File: smiley.dtx by Dennis Heidsiek, mail: HeidsiekB at aol dot com
+%%
+%% You can get the latest version at http://github.com/zephyr/latex-smiley
+%%
+
+\NeedsTeXFormat{LaTeX2e}
+\RequirePackage{pgfkeys}
+\RequirePackage{pgfopts}
+\RequirePackage{xcolor}
+\RequirePackage{graphicx}
+
+\ProvidesPackage{smiley}
+  [2010/03/16 v0.1 provides smileys, initial experimental version.]
+
+\newif\ifsmiley@useitalic
+\newif\ifsmiley@usebold
+\newif\ifsmiley@useangle
+\newif\ifsmiley@usecolour
+\pgfkeys{
+  /smiley/.cd,
+  useitalic/.is if = smiley@useitalic,
+  usebold/.is if = smiley@usebold,
+  useangle/.is if = smiley@useangle,
+  usecolor/.is if = smiley@usecolour,
+  usecolour/.is if = smiley@usecolour,
+  angle/.store in = \smiley@angle,
+  colour/.store in = \smiley@colour,
+  color/.style = {colour=#1},
+  inactive/.code = {%
+    \let\smiley\emph
+    \PackageInfo{smiley}
+    {Package inactive}%
+  }
+}
+\AtBeginDocument{
+  \pgfkeys{
+    /smiley/inactive/.code = {%
+      \PackageInfo{smiley}{%
+      The Option ^^e2^^80^^98inactive^^e2^^80^^99 is only available in preamble!
+      }%
+    }
+  }
+}
+
+\pgfkeys{
+  /smiley/.cd,
+  useitalic = false,
+  usebold = false,
+  useangle = true,
+  usecolour = false,
+  color = red,
+  angle = -85
+}
+
+\newcommand*{\smileysetup}{%
+  \pgfqkeys{/smiley}%
+}
+\ProcessPgfOptions{/smiley}
+\newcommand*\definesmiley[2]{%
+  \expandafter\def\csname smiley@name@#1\endcsname{#2}
+}
+
+\newcommand*{\smiley@emph@apply}{%
+  \ifsmiley@useitalic
+    \expandafter\emph
+  \else
+    \expandafter\@firstofone
+  \fi
+}
+\newcommand*{\smiley@bold@apply}{%
+  \ifsmiley@usebold
+    \expandafter\textbf
+  \else
+    \expandafter\@firstofone
+  \fi
+}
+\newcommand*{\smiley@angle@apply}[1]{%
+  \ifsmiley@useangle
+    \rotatebox[origin=c]{\smiley@angle}{#1}
+  \else
+    #1
+  \fi
+}
+\newcommand*{\smiley@colour@apply}{%
+  \ifsmiley@usecolour
+    \expandafter\textcolor
+  \else
+    \expandafter\@secondoftwo
+  \fi
+  {\smiley@colour}%
+}
+\newcommand*{\smiley@apply}[1]{%
+  \smiley@angle@apply{\smiley@emph@apply{\smiley@bold@apply{\smiley@colour@apply{%
+    #1%
+  }}}}%
+}
+
+\newcommand*{\smiley}[1]{%
+  \expandafter\smiley@apply
+    \ifcsname smiley@name@#1\endcsname
+      {\csname smiley@name@#1\endcsname}
+    \else
+      {#1}
+    \fi
+}
+
+\definesmiley{alternative}{:)}
+\definesmiley{angel}{O:)}
+\definesmiley{angry}{>:(}
+\definesmiley{cap}{d:-)}
+\definesmiley{cheeky}{:-P}
+\definesmiley{crying}{:'(}
+\definesmiley{cylon}{!-|}
+\definesmiley{evil}{\}:->}
+\definesmiley{frown}{:<}
+\definesmiley{grin}{=D}
+\definesmiley{happy}{:-)}
+\definesmiley{irony}{;-)}
+\definesmiley{kiss}{:-*}
+\definesmiley{klingon}{>:-l}
+\definesmiley{laugh}{:-D}
+\definesmiley{love}{<333}
+\definesmiley{mad}{>:O}
+\definesmiley{money}{:$}
+\definesmiley{mustache}{:3}
+\definesmiley{normal}{:-)}
+\definesmiley{rose}{@\}-;-'---}
+\definesmiley{sad}{:-(}
+\definesmiley{santa}{*<:-)}
+\definesmiley{sealed}{:-X}
+\definesmiley{shock}{:O}
+\definesmiley{skeptical}{:/}
+\definesmiley{straight}{:|}
+\definesmiley{smile}{:-)}
+\definesmiley{wink}{;-)}
+
+%% 
+%%
+%% End of file `smiley.sty'.
