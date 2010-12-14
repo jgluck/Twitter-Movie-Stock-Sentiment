@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2010.12.12)  13 DEC 2010 01:28
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2010.12.12)  14 DEC 2010 00:45
 entering extended mode
 **cs65f10.tex
 
@@ -186,14 +186,18 @@ Underfull \hbox (badness 1005) in paragraph at lines 96--97
 \OT1/ptm/m/n/10.95 These tweets were stored in their JSON ob-ject
  []
 
-[2] [3] <img/PureTweets.png, id=20, 423.83344pt x 255.20343pt>
-File: img/PureTweets.png Graphic file (type png)
-
-<use img/PureTweets.png>
-Underfull \hbox (badness 1824) in paragraph at lines 176--179
+[2] [3]
+Underfull \hbox (badness 1824) in paragraph at lines 189--191
 \OT1/ptm/m/n/10.95 After hav-ing gath-ered data over the pe-riod of
  []
 
+<img/moviebox.png, id=20, 363.60844pt x 219.06844pt>
+File: img/moviebox.png Graphic file (type png)
+ <use img/moviebox.png>
+<img/purestocktweets.png, id=21, 331.99031pt x 228.10219pt>
+File: img/purestocktweets.png Graphic file (type png)
+
+<use img/purestocktweets.png>
 Missing character: There is no ï in font ptmr7t!
 Missing character: There is no ¿ in font ptmr7t!
 Missing character: There is no ½ in font ptmr7t!
@@ -254,8 +258,8 @@ Missing character: There is no ½ in font ptmr7t!
 Missing character: There is no ï in font ptmr7t!
 Missing character: There is no ¿ in font ptmr7t!
 Missing character: There is no ½ in font ptmr7t!
-[4 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentimen
-t/paper/img/PureTweets.png (PNG copy)>]
+ [4 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentime
+nt/paper/img/moviebox.png (PNG copy)>]
 Missing character: There is no ï in font ptmr7t!
 Missing character: There is no ¿ in font ptmr7t!
 Missing character: There is no ½ in font ptmr7t!
@@ -310,6 +314,8 @@ Missing character: There is no ½ in font ptmr7t!
 Missing character: There is no ï in font ptmr7t!
 Missing character: There is no ¿ in font ptmr7t!
 Missing character: There is no ½ in font ptmr7t!
+ [5 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentime
+nt/paper/img/purestocktweets.png (PNG copy)>]
 Missing character: There is no ï in font ptmr7t!
 Missing character: There is no ¿ in font ptmr7t!
 Missing character: There is no ½ in font ptmr7t!
@@ -322,19 +328,37 @@ Missing character: There is no ½ in font ptmr7t!
 Missing character: There is no ï in font ptmr7t!
 Missing character: There is no ¿ in font ptmr7t!
 Missing character: There is no ½ in font ptmr7t!
- [5]
+
+Underfull \hbox (badness 1205) in paragraph at lines 225--226
+\OT1/ptm/m/n/10.95 ever told. When the king-dom's most wanted-
+ []
+
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+
+Underfull \hbox (badness 1107) in paragraph at lines 227--228
+\OT1/ptm/m/n/10.95 him an out-cast in rough East Lon-don. While
+ []
+
+Missing character: There is no Â in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+[6]
 No file cs65f10.bbl.
-[6
+[7
 
 ]
 ("C:\Users\Jonathan\Documents\10 Fall\CS65\Final\Twitter-Movie-Stock-Sentiment\
 paper\cs65f10.aux") ) 
 Here is how much of TeX's memory you used:
- 1994 strings out of 494019
- 31401 string characters out of 3143872
+ 1999 strings out of 494019
+ 31528 string characters out of 3143872
  93956 words of memory out of 3000000
- 5277 multiletter control sequences out of 15000+200000
- 16786 words of font info for 43 fonts, out of 3000000 for 9000
+ 5280 multiletter control sequences out of 15000+200000
+ 17301 words of font info for 45 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  41i,10n,51p,1773b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontnam
@@ -347,9 +371,9 @@ rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program File
 s (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on cs65f10.pdf (6 pages, 129544 bytes).
+Output written on cs65f10.pdf (7 pages, 148653 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
