@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2010.12.12)  14 DEC 2010 00:45
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2010.12.12)  14 DEC 2010 23:35
 entering extended mode
 **cs65f10.tex
 
@@ -155,16 +155,6 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 47.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
@@ -182,7 +172,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 76.
 
-Underfull \hbox (badness 1005) in paragraph at lines 96--97
+Underfull \hbox (badness 1005) in paragraph at lines 97--98
 \OT1/ptm/m/n/10.95 These tweets were stored in their JSON ob-ject
  []
 
@@ -191,145 +181,119 @@ Underfull \hbox (badness 1824) in paragraph at lines 189--191
 \OT1/ptm/m/n/10.95 After hav-ing gath-ered data over the pe-riod of
  []
 
-<img/moviebox.png, id=20, 363.60844pt x 219.06844pt>
+<img/moviebox.png, id=21, 363.60844pt x 219.06844pt>
 File: img/moviebox.png Graphic file (type png)
  <use img/moviebox.png>
-<img/purestocktweets.png, id=21, 331.99031pt x 228.10219pt>
+[4] <img/tangledsimpsent.png, id=25, 408.02437pt x 255.20343pt>
+File: img/tangledsimpsent.png Graphic file (type png)
+
+<use img/tangledsimpsent.png>
+Overfull \hbox (17.16591pt too wide) in paragraph at lines 209--210
+ [][] 
+ []
+
+[5 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentimen
+t/paper/img/moviebox.png (PNG copy)> <C:/Users/Jonathan/Documents/10 Fall/CS65/
+Final/Twitter-Movie-Stock-Sentiment/paper/img/tangledsimpsent.png (PNG copy)>]
+<img/tangledsent.png, id=29, 410.2828pt x 255.95625pt>
+File: img/tangledsent.png Graphic file (type png)
+
+<use img/tangledsent.png> <img/hpsent.png, id=31, 409.53pt x 255.95625pt>
+File: img/hpsent.png Graphic file (type png)
+
+<use img/hpsent.png> <img/tstos.png, id=32, 406.51875pt x 256.70906pt>
+File: img/tstos.png Graphic file (type png)
+
+<use img/tstos.png>
+Underfull \vbox (badness 1270) has occurred while \output is active []
+
+ [6 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentime
+nt/paper/img/tangledsent.png> <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/T
+witter-Movie-Stock-Sentiment/paper/img/hpsent.png (PNG copy)>]
+<img/aatos.png, id=37, 408.02437pt x 256.70906pt>
+File: img/aatos.png Graphic file (type png)
+ <use img/aatos.png>
+Underfull \hbox (badness 1424) in paragraph at lines 281--282
+[]\OT1/ptm/m/n/10.95 When we mea-sure av-er-age ex-cited sen-ti-ment
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+<img/purestocktweets.png, id=38, 331.99031pt x 228.10219pt>
 File: img/purestocktweets.png Graphic file (type png)
 
 <use img/purestocktweets.png>
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
- [4 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentime
-nt/paper/img/moviebox.png (PNG copy)>]
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
- [5 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentime
-nt/paper/img/purestocktweets.png (PNG copy)>]
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
-Missing character: There is no Ô in font ptmr7t!
-Missing character: There is no ø in font ptmr7t!
-Missing character: There is no Ω in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ [7 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentime
+nt/paper/img/tstos.png (PNG copy)> <C:/Users/Jonathan/Documents/10 Fall/CS65/Fi
+nal/Twitter-Movie-Stock-Sentiment/paper/img/aatos.png (PNG copy)>] <img/micvol.
+png, id=43, 407.27156pt x 256.70906pt>
+File: img/micvol.png Graphic file (type png)
 
-Underfull \hbox (badness 1205) in paragraph at lines 225--226
+<use img/micvol.png>
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+ <img/yahvol.png, id=44, 363.60844pt x 219.06844pt>
+File: img/yahvol.png Graphic file (type png)
+
+<use img/yahvol.png>
+Underfull \hbox (badness 1168) in paragraph at lines 314--315
+[]\OT1/ptm/m/n/10.95 However, both Ap-ple and Ama-zon gen-er-ated
+ []
+
+[8 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentimen
+t/paper/img/purestocktweets.png (PNG copy)> <C:/Users/Jonathan/Documents/10 Fal
+l/CS65/Final/Twitter-Movie-Stock-Sentiment/paper/img/micvol.png (PNG copy)> <C:
+/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentiment/pape
+r/img/yahvol.png (PNG copy)>]
+<img/amavol.png, id=48, 363.60844pt x 219.06844pt>
+File: img/amavol.png Graphic file (type png)
+ <use img/amavol.png>
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Underfull \hbox (badness 1383) in paragraph at lines 328--329
+\OT1/ptm/m/n/10.95 anal-y-sis would be to im-ple-ment a more ef-fec-
+ []
+
+[9 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentimen
+t/paper/img/amavol.png (PNG copy)>] [10]
+Underfull \hbox (badness 1205) in paragraph at lines 350--351
 \OT1/ptm/m/n/10.95 ever told. When the king-dom's most wanted-
  []
 
@@ -340,27 +304,53 @@ Missing character: There is no © in font ptmr7t!
 Missing character: There is no ¬ in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
 
-Underfull \hbox (badness 1107) in paragraph at lines 227--228
+Underfull \hbox (badness 1107) in paragraph at lines 352--353
 \OT1/ptm/m/n/10.95 him an out-cast in rough East Lon-don. While
  []
 
 Missing character: There is no ¬ in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
-[6]
-No file cs65f10.bbl.
-[7
+[11] <img/harrygoog.png, id=58, 408.02437pt x 255.20343pt>
+File: img/harrygoog.png Graphic file (type png)
 
-]
+<use img/harrygoog.png>
+Underfull \hbox (badness 1033) in paragraph at lines 366--366
+[]\OT1/ptm/m/n/10.95 Figure 11: Google Search Score above, Tweet
+ []
+
+<img/hptweetsent.png, id=59, 408.77719pt x 257.46187pt>
+File: img/hptweetsent.png Graphic file (type png)
+
+<use img/hptweetsent.png>
+<img/twitrattr.png, id=60, 363.60844pt x 219.06844pt>
+File: img/twitrattr.png Graphic file (type png)
+ <use img/twitrattr.png>
+("C:\Users\Jonathan\Documents\10 Fall\CS65\Final\Twitter-Movie-Stock-Sentiment\
+paper\cs65f10.bbl"
+Underfull \hbox (badness 1655) in paragraph at lines 4--8
+\OT1/ptm/m/n/10 Char-ac-ter-iz-ing de-bate per-for-mance via ag-gre-gated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--28
+[]\OT1/ptm/m/n/10 Brenden O'Connor, Ram-nath Bal-a-sub-ra-manyan,
+ []
+
+) [12 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Senti
+ment/paper/img/harrygoog.png (PNG copy)> <C:/Users/Jonathan/Documents/10 Fall/C
+S65/Final/Twitter-Movie-Stock-Sentiment/paper/img/hptweetsent.png (PNG copy)> <
+C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentiment/pa
+per/img/twitrattr.png (PNG copy)>] [13]
 ("C:\Users\Jonathan\Documents\10 Fall\CS65\Final\Twitter-Movie-Stock-Sentiment\
 paper\cs65f10.aux") ) 
 Here is how much of TeX's memory you used:
- 1999 strings out of 494019
- 31528 string characters out of 3143872
- 93956 words of memory out of 3000000
- 5280 multiletter control sequences out of 15000+200000
- 17301 words of font info for 45 fonts, out of 3000000 for 9000
+ 2084 strings out of 494019
+ 33125 string characters out of 3143872
+ 94217 words of memory out of 3000000
+ 5348 multiletter control sequences out of 15000+200000
+ 22254 words of font info for 51 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 41i,10n,51p,1773b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,10n,51p,1939b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontnam
 e/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex
 10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10
@@ -370,10 +360,11 @@ C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program File
 s (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on cs65f10.pdf (7 pages, 148653 bytes).
+TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/urw/times/utmri8a.pfb>
+Output written on cs65f10.pdf (13 pages, 409295 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 101 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

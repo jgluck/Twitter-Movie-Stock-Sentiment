@@ -1,0 +1,41 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Diakopoulos and Shamma}2010]{diakopoulos-2010}
+Nicholas~A. Diakopoulos and David~A. Shamma.
+\newblock 2010.
+\newblock Characterizing debate performance via aggregated twitter sentiment.
+\newblock {\em CHI}, pages 1--10.
+
+\bibitem[\protect\citename{Dsouza}2010]{dsouza-2010}
+Keith Dsouza.
+\newblock 2010.
+\newblock Twitter has 224 million users, adds 100 million users this year,
+  December.
+
+\bibitem[\protect\citename{Go \bgroup et al.\egroup }2009]{go-distant}
+Alec Go, Richa Bhayani, and Lei Huang.
+\newblock 2009.
+\newblock Twitter sentiment classification using distant supervision.
+\newblock {\em CS224N Project Report, Stanford}, pages 1--6.
+
+\bibitem[\protect\citename{O'Connor \bgroup et al.\egroup }2010]{oconnor-2010}
+Brenden O'Connor, Ramnath Balasubramanyan, Bryan~R. Routledge, and Noah~A.
+  Smith.
+\newblock 2010.
+\newblock From tweets to polls: Linking text sentiment to public opinion time
+  series.
+\newblock {\em AAAI Conference on Weblogs and Social Media}.
+
+\bibitem[\protect\citename{Rao}2010]{rao-2010}
+Leena Rao.
+\newblock 2010.
+\newblock Twitter seeing 90 million tweets per day, 25 percent contain links,
+  September.
+
+\bibitem[\protect\citename{Wilson \bgroup et al.\egroup }2005]{wiebe-2005}
+Theresa Wilson, Janyce Wiebe, and Paul Hoffmann.
+\newblock 2005.
+\newblock Recognizing contextual polarity in phrase-level sentiment analysis.
+\newblock {\em HLT-EMNLP-2005}.
+
+\end{thebibliography}
