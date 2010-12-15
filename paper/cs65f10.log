@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2010.12.12)  14 DEC 2010 23:35
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2010.12.12)  14 DEC 2010 23:43
 entering extended mode
 **cs65f10.tex
 
@@ -293,7 +293,7 @@ Underfull \hbox (badness 1383) in paragraph at lines 328--329
 
 [9 <C:/Users/Jonathan/Documents/10 Fall/CS65/Final/Twitter-Movie-Stock-Sentimen
 t/paper/img/amavol.png (PNG copy)>] [10]
-Underfull \hbox (badness 1205) in paragraph at lines 350--351
+Underfull \hbox (badness 1205) in paragraph at lines 346--347
 \OT1/ptm/m/n/10.95 ever told. When the king-dom's most wanted-
  []
 
@@ -304,7 +304,7 @@ Missing character: There is no © in font ptmr7t!
 Missing character: There is no Â in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
 
-Underfull \hbox (badness 1107) in paragraph at lines 352--353
+Underfull \hbox (badness 1107) in paragraph at lines 348--349
 \OT1/ptm/m/n/10.95 him an out-cast in rough East Lon-don. While
  []
 
@@ -314,7 +314,7 @@ Missing character: There is no © in font ptmr7t!
 File: img/harrygoog.png Graphic file (type png)
 
 <use img/harrygoog.png>
-Underfull \hbox (badness 1033) in paragraph at lines 366--366
+Underfull \hbox (badness 1033) in paragraph at lines 362--362
 []\OT1/ptm/m/n/10.95 Figure 11: Google Search Score above, Tweet
  []
 
@@ -362,7 +362,7 @@ gram Files (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program File
 s (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/urw/times/utmri8a.pfb>
-Output written on cs65f10.pdf (13 pages, 409295 bytes).
+Output written on cs65f10.pdf (13 pages, 409255 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
